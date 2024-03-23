@@ -894,11 +894,11 @@
                 '   </div>' +
                 '</div>' +
                 '<div class="price-filter">' +
-                '   <input type="checkbox" id="adjust_mode" name="adjust_mode" checked>' +
+                '   <input type="checkbox" id="adjust_mode" name="adjust_mode">' +
                 '   <label for="adjust_mode">Adjust mode</label>' +
                 '</div>' +
                 '<div class="price-filter" style="padding: 15px 5px;">' +
-                '   <input type="checkbox" id="buy_sound" name="buy_sound" checked>' +
+                '   <input type="checkbox" id="buy_sound" name="buy_sound">' +
                 '   <label for="buy_sound">Buy Sound</label>' +
                 '</div>' +
                 '<div class="search-price-header">' +
